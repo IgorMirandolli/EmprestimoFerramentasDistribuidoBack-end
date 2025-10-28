@@ -2,7 +2,7 @@ package principal;
 
 import visao.FrmMenuPrincipal;
 
-public class principal {
+public class Principal {
 
     public static void main(String[] args) {
 
@@ -11,6 +11,6 @@ public class principal {
 
         //Método para exibir o objeto tela
         tela.setVisible(true);
-
+        
     }
 }
